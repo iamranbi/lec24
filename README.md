@@ -6,8 +6,8 @@ umbball.csv & umfootball.csv: files that contain information about men’s baske
 <br> columns used in this project: year, wins, losses, and win percentage.
 
 ### User Guide
-app.py — main application program file
+<br>app.py — main application program file
 <br> model.py — file that contains data management code
-<br> templates/seasons.html — template
 <br> requirements.txt — file that contains the dependencies for this app
-static/blockM.png and static/style.css — static files, referenced in app.py:index() and in seasons.html.
+<br> templates/seasons.html — template
+<br> static/blockM.png and static/style.css — static files, referenced in app.py:index() and in seasons.html.
